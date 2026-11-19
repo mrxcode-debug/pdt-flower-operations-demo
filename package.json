@@ -2,7 +2,6 @@
   "name": "pdt-flower-operations-showcase",
   "version": "0.1.0",
   "private": true,
-  "packageManager": "pnpm@11.19.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,7 +11,7 @@
     "check": "npm run test:domain && npm run typecheck && npm run build"
   },
   "dependencies": {
-    "next": "16.0.10",
+    "next": "16.4.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
